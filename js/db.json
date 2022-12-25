@@ -1,0 +1,28 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "name": "Finish projects",
+      "complete": false,
+      "tag": "math"
+    },
+    {
+      "id": 2,
+      "name": "Read chapter 4",
+      "complete": false,
+      "tag": "science"
+    },
+    {
+      "id": 3,
+      "name": "Watch laracast",
+      "complete": false,
+      "tag": "science"
+    },
+    {
+      "id": 4,
+      "name": "Do homework",
+      "complete": true,
+      "tag": "math"
+    }
+  ]
+}
